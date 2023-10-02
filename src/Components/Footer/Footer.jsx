@@ -24,7 +24,7 @@ const Footer = () => {
             Social
           </h5>
           <div className="flex justify-center">
-            <a href="https://github.com/chaudharybhumka18" target="_blank">
+            <a href="https://github.com/chaudharybhumika18" target="_blank">
               <div className="hover:text-primary-color m-2 mr-4 active:scale-90 hover:scale-95 transition shadow-light-card p-3 bg-primary-light rounded-lg hover:-translate-y-4">
                 <GitHub />
               </div>
@@ -63,9 +63,9 @@ const Footer = () => {
             About Me
           </h5>
           <h2 className="text-sm">
-            Ex-Database intern at
+            Ex-Database intern at 
             <a href="https://stefanini.com/en" target="_blank">
-              <span className="text-primary-color">Stefanini </span>
+              <span className="text-primary-color"> Stefanini </span>
             </a>
             , Skilled at Algorithms, C (Programming Language), Java, and Video
             Editing. Strong media and communication professional with a
